@@ -1,0 +1,25 @@
+body{font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+background-color: rgb(230, 219, 219);}
+li{font-size: 18px;
+    font-style: italic;
+    font-weight: normal;}
+a{color: blue;
+text-decoration: none;}
+a:hover{text-decoration: underline; }
+    
+a:visited{color: rgb(241, 83, 241);}
+
+.resumelistheading {font-weight: bold;
+    font-style:normal ;}
+.justify{text-align: justify;}
+
+ .top-right {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 10px; 
+        
+ }
+  
